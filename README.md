@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
 
-- 🌱 I’m currently learning **Laravel** , **Sql** 
+- 🌱 I’m currently learning **C#** , **.NET** 
 - 💬 Ask me about **Vue.js**
 - 📫 How to reach me **marcotrunc@gmail.com**
 
